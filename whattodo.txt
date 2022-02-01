@@ -1,0 +1,8 @@
+i need to create an array of data in a separate js file
+it should be an array of objects with properties such as fuji
+.map() to "map" through the array 
+pass custom components as props using .map()
+react has to display the array that has been mapped
+a bit of css
+
+/* Photos from Unsplash Japan - https://unsplash.com/photos/WLxQvbMyfas Australia - https://unsplash.com/photos/JmuyB_LibRo Norway - https://unsplash.com/photos/3PeSjpLVtLg */
